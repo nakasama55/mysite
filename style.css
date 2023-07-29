@@ -107,12 +107,12 @@ small {
 /* ABOUT */
 
 .about {
-  display: flex;
+  /* display: flex; */
   gap: 16px;
 }
 
 .about div{
-  flex: 1;
+  /* flex: 1; */
 }
 
 
